@@ -1,6 +1,6 @@
 // tests/taskManager.test.js
 
-const { addTask, readTask, updateTask, deleteTask, tasks } = require("../src/taskManager");
+const { addTask, readTask, updateTask, deleteTask, tasks } = require("./taskManager");
 
 // Reset tasks before each test
 beforeEach(() => {

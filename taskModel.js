@@ -1,4 +1,4 @@
-const TaskManager = require("./src/taskManager");
+const TaskManager = require("./taskManager");
 
 // Add a new blog post
 console.log(TaskManager.addTask({
